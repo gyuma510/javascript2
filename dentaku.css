@@ -1,0 +1,36 @@
+.wrapper{
+  max-width: 350px;
+  margin: 0 auto;
+  color: #666;
+}
+#calc{
+  box-sizing: border-box;
+  text-align: center;
+}
+#header {
+  font-size: 24px;
+  padding: 1rem;
+}
+input{
+  box-sizing: border-box;
+  width: 85%;
+  height: 3.5rem;
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+  text-align: right;
+  padding: 0 0.75rem;
+}
+button{
+  font-size: 18px;
+  width: 20%;
+  height: 3.5rem;
+  color: #333;
+  border-color: #fff;
+}
+button:hover{
+  background-color: #ddd;
+}
+.button2{
+  width: 42%;
+  margin-top: 5px;
+}
